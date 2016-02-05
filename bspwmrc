@@ -37,6 +37,15 @@ bspc rule -a Gimp floating=on
 bspc rule -a Chromium
 bspc rule -a Screenkey manage=off
 
-compton &
+
+urxvt -e cava &
+bspc rule -a urxvt split_ratio=0.5
+urxvt -e ncmpcpp &
+bspc rule -a urxvt split_ratio=0.5
+urxvt -e weechat & 
+
+dunst & 
+pulseaudio-ctl &
+compton --config ~/.compton.conf &
 /home/ninjafruit/.config/bspwm/panel &
 
