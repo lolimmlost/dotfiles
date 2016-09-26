@@ -6,4 +6,4 @@ Startpage
 
 Captain used for easy Lemonbar setup.
 
-Xresources, Xinit, and bspwm configs included and a very spicy gif.
+Xresources, Xinit, and bspwm configs included and a very spicy gif. ![alt tag](https://raw.githubusercontent.com/lolimmlost/dotfiles/master/spicy.gif)
