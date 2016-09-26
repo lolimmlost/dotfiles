@@ -2,7 +2,7 @@ My Dortfiles
 These fortfiles were for my bspwm install.
 
 Startpage
-<img src="dotfiles/Startpage/startpage.png" alt="meme"/>
+![alt tag](https://github.com/lolimmlost/dotfiles.git/Startpage/startpage.png)
 
 Captain used for easy Lemonbar setup.
 
